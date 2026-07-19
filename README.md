@@ -43,6 +43,6 @@
 - 🐳 Docker
 - 🔀 Git & GitHub
 
-## Seguimos em constante evolução!
+Seguimos em constante evolução!
 
 ---
