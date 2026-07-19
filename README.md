@@ -2,7 +2,7 @@
 
 ###
 
-<p data-importer="text" align="left">Sou Lucas Oliveira, estudante de Análise e Desenvolvimento de Sistemas e desenvolvedor em formação.<br><br>🚀 Buscando minha primeira oportunidade na área de tecnologia.</p>
+<p data-importer="text" align="left">Estudante de Análise e Desenvolvimento de Sistemas e desenvolvedor em formação.<br><br>🚀 Buscando minha primeira oportunidade na área de tecnologia.</p>
 
 ###
 
